@@ -1118,7 +1118,7 @@ footer .footnote .highlight {
     min-width: 500px;
   }
 }
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 380px) {
   .waypoint {
     opacity: 0;
   }
