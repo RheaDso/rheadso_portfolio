@@ -27,7 +27,7 @@ $(document).ready(function() {
     },
     me: {
       title: 'Know About ME',
-      link: '',
+      link: 'https://github.com/RheaDso/know-about-me',
     },
     geolocation: {
       title: 'Geolocation',
@@ -35,7 +35,7 @@ $(document).ready(function() {
     },
     music: {
       title: 'Music Genre Prediction',
-      link: 'https://github.com/RheaDso/MusicGenrePredictionApp'
+      link: 'https://github.com/RheaDso/Music-Genre-Prediction'
     }
   };
 
